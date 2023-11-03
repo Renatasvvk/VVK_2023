@@ -1,0 +1,6 @@
+﻿Pavarde11 Vardas11 4 1 1 7 1 10
+Pavarde12 Vardas12 5 7 9 6 4 2
+Pavarde13 Vardas13 6 3 9 5 4 7
+Pavarde14 Vardas14 2 5 7 9 6 8
+Pavarde16 Vardas16 3 5 6 9 8 7
+
